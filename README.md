@@ -1,4 +1,5 @@
 # The Hourglass Experience
+This is a project made by using HTML, CSS and JavaScript : https://areysid.github.io/Watch-Catalog-Project/
 
 ## Description
 The Hourglass Experience offers a captivating journey into the world of timepieces, serving as an immersive catalog for watch enthusiasts and novices alike. With meticulous attention to detail, our platform curates a diverse array of exquisite watches, each telling a unique story of craftsmanship and style.
